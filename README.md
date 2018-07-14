@@ -1,5 +1,5 @@
-# zenkit.com Franz Plugin
-Recipe for [zenkit.com](https://www.zenkit.com) integration with [Franz](https://meetfranz.com)
+# Zenkit Franz Plugin
+Recipe for [Zenkit](https://www.zenkit.com) integration with [Franz](https://meetfranz.com)
 
 ## Requirements
 This recipe only works for Franz 5.X, get it now at http://meetfranz.com
