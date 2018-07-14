@@ -1,0 +1,12 @@
+{
+  "id": "zenkit",
+  "name": "Zenkit",
+  "version": "1.0.0",
+  "description": "Integration of Zenkit",
+  "main": "index.js",
+  "author": "Jonas Hilke <jonashilke@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://zenkit.com"
+  }
+}
